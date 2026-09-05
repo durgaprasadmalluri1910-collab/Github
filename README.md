@@ -31,7 +31,7 @@ I collected their business information and created a website concept using **Rep
 ## Portfolio
 
 Explore my portfolio:  
-**[Rohan Malluri — Digital Portfolio](https://durgaprasadmalluri1910-collab.github.io/GitHub/) 
+**[Rohan Malluri — Digital Portfolio](https://durgaprasadmalluri1910-collab.github.io/Github-portfolio/) 
 
 ## Connect
 
